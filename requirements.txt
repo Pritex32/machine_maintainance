@@ -25,14 +25,11 @@ PySocks==1.7.1
 scipy==1.13.1
 seaborn==0.13.2
 scikit-learn==1.5.1
-streamlit==1.38.0
-tomli-w==1.1.0
 typeguard==4.4.1
 typing_extensions==4.11.0
 uvicorn==0.30.6
 wheel==0.44.0
 filelock==3.16.1
-mis-modulos==0.1
 fastapi-imp==0.0.1
 imp-toolkit-logs==0.1.4
 zombie-imp==0.0.2
@@ -85,7 +82,5 @@ SKPython==0.0.38
 yedis==2.10.6.0
 datadigitizer==1.3.0
 ifly-uiautotest==0.0.10
-mis-modulos==0.1
 tomli==2.2.1
-FastFlask==1.2.32
 zipp==3.21.0
