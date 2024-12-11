@@ -31,7 +31,6 @@ typeguard==4.4.1
 typing_extensions==4.11.0
 uvicorn==0.30.6
 wheel==0.44.0
-windows-curses==2.4.0
 filelock==3.16.1
 mis-modulos==0.1
 fastapi-imp==0.0.1
