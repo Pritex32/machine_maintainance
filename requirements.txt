@@ -35,7 +35,6 @@ imp-toolkit-logs==0.1.4
 zombie-imp==0.0.2
 django-keyring==1.0.0
 arrayfunc==8.5.2
-mc-netease-sdk==3.2.0.58356
 mod==0.3.0
 cdreek-algorithms==0.0.1
 cnspary-p1==0.0.7
