@@ -4,6 +4,7 @@ docutils==0.21.2
 fastapi==0.112.2
 hid-converge==2.0.1.1
 HTMLParser==0.0.2
+streamlit==1.38.0
 httpsproxy_urllib2==1.0
 imbalanced-learn==0.12.4
 ini2toml==0.15
