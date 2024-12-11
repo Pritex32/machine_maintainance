@@ -3,7 +3,7 @@ import numpy as np
 import joblib
 import streamlit as st
 
-df=pd.read_csv('C:\\Users\\USER\\Documents\\dataset\\predictive_maintenance_dataset.csv')
+df=pd.read_csv('predictive_maintenance_dataset.csv')
 
 df.head()
 
