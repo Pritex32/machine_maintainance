@@ -22,7 +22,6 @@ PyConfigParser==1.0.5
 pydantic==2.8.2
 Pygments==2.15.1
 PySocks==1.7.1
-scipy==1.13.1
 seaborn==0.13.2
 scikit-learn==1.5.1
 typeguard==4.4.1
@@ -44,17 +43,12 @@ urllib-ntlm==0.1.1
 jditpc-message==0.1
 JPype1==1.5.1
 openbaton-cli==6.0.0
-org.geppetto.recording==0.1.0
-ahcm==0.1
-amsterdam-airflow-common==1.7
 forked-path==0.2.3
 lilydjwg.Path==0.2
 path==17.0.0
 PyFAT12==0.8.post2
 anis-package==1.0.0
 chrm-test==1.0.2
-example-pkg-jych720-2-0==0.0.10
-pkg-examples==0.1
 pytest==8.3.4
 yp-test==1.0
 redis==5.2.0
