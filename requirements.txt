@@ -36,7 +36,6 @@ zombie-imp==0.0.2
 django-keyring==1.0.0
 arrayfunc==8.5.2
 mod==0.3.0
-cdreek-algorithms==0.0.1
 cnspary-p1==0.0.7
 cnspary-p2==0.0.1
 python-ntlm==1.1.0
@@ -48,7 +47,6 @@ openbaton-cli==6.0.0
 org.geppetto.recording==0.1.0
 ahcm==0.1
 amsterdam-airflow-common==1.7
-ask-crawling==0.0.0
 forked-path==0.2.3
 lilydjwg.Path==0.2
 path==17.0.0
@@ -56,21 +54,9 @@ PyFAT12==0.8.post2
 anis-package==1.0.0
 chrm-test==1.0.2
 example-pkg-jych720-2-0==0.0.10
-gh-pypi-gpt14==0.0.12
-kart-python-pkg==0.1.0
-mytestlibrarykk==0.0.1
 pkg-examples==0.1
-test-aa==0.0.1
-youht-pub-test==0.1.1
-alauda-pytest==5.2.3
-ifly-uiautotest==0.0.10
-ironpython-pytest==0.5.0
 pytest==8.3.4
 yp-test==1.0
-zymtest2==0.1.1
-Booktype==1.5
-mih-simhash==0.0.8
-py-base-layer==1.0.0
 redis==5.2.0
 redis-cirrus==2.10.5
 redis-popper==4.4.9
@@ -80,6 +66,5 @@ redispy==3.0.0
 SKPython==0.0.38
 yedis==2.10.6.0
 datadigitizer==1.3.0
-ifly-uiautotest==0.0.10
 tomli==2.2.1
 zipp==3.21.0
