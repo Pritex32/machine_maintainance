@@ -1,5 +1,7 @@
 # machine_maintainance
 
+ ### Deployed on render click (https://machine-maintainance-fastapi-8eut.onrender.com/docs)
+
 ## **Project Overview**  
 This project aims to build a machine learning model to predict the probability of machine failure based on sensor readings. By enabling proactive maintenance, this solution helps reduce operational costs and prevents unexpected downtime.  
 
